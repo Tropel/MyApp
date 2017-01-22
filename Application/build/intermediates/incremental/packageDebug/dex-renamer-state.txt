@@ -1,0 +1,7 @@
+#Fri Dec 23 19:40:12 CET 2016
+base.0=/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c6ab014c7c16b3178407b8519d0cda854944cae
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26a7099f893d0cb3bcbdc816cd6a1224a18a57c6/classes.dex
+base.1=/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26a7099f893d0cb3bcbdc816cd6a1224a18a57c6
+file.0=/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c6ab014c7c16b3178407b8519d0cda854944cae/classes.dex
