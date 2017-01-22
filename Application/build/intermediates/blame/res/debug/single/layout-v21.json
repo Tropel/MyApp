@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
     },
@@ -8,11 +12,23 @@
         "source": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
     },
     {
+        "merged": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
     },
     {
+        "merged": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
     }
 ]

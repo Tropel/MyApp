@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/res/merged/debug/drawable-mdpi-v9/ic_stat_notification.png",
+        "source": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/src/main/res/drawable-mdpi-v9/ic_stat_notification.png"
+    },
+    {
         "merged": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-mdpi-v9/ic_stat_notification.png",
         "source": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/src/main/res/drawable-mdpi-v9/ic_stat_notification.png"
     }

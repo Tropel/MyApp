@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/mtoeltl/AndroidStudioProjects/MyAppFromGit/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
         "source": "/home/mtoeltl/AndroidStudioProjects/BasicNotifications/Application/src/main/res/drawable-mdpi/ic_launcher.png"
     }
